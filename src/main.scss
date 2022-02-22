@@ -1,0 +1,33 @@
+ul {
+    list-style-type: none;
+}
+
+.container {
+    max-width: 1000px;
+    margin:0 auto;
+}
+
+.gallery__title {
+    color: red;
+    text-align: center;
+}
+
+.gallerry__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.gallery-item {
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    max-width: 250px;
+}
+
+.gallery__item-video{
+    max-width: 100%;
+}
+
+.gallery__item-video{
+    max-width: 100%;
+}
